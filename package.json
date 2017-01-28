@@ -1,0 +1,25 @@
+{
+  "name": "image-search-abstraction",
+  "version": "1.0.0",
+  "description": "fcc project 4",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-master5/ImageSearchAbstraction.git"
+  },
+  "author": "code_master5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-master5/ImageSearchAbstraction/issues"
+  },
+  "homepage": "https://github.com/code-master5/ImageSearchAbstraction#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "express": "^4.14.0",
+    "nedb": "^1.8.0",
+    "request": "^2.79.0"
+  }
+}
